@@ -1,1 +1,1 @@
-# Ethical-Hackng-Tools
+# Ethical-Hacking-Tools
